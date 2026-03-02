@@ -7,15 +7,6 @@ This project models monthly truck sales data using ensemble tree-based methods, 
 The data is given from Kaggle
 https://www.kaggle.com/datasets/ddosad/dummy-truck-sales-for-time-series/data
 
-## Tools & Libraries
-- Python
-- pandas
-- NumPy
-- Matplotlib / Seaborn
-- scikit-learn
-- XGBoost
-- statsmodels
-
 ## Methodology
 - Time Series Cross-Validation
 - Feature Engineering
